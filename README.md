@@ -1,2 +1,2 @@
-# Th-rion
+ thērion 
 our first game 
